@@ -13,12 +13,12 @@ For every unit there are discrete content knowledge and skills that we expect st
 Content Knowledge and Skills standards shall comprise no less than 65% of the total standards for a course.
 We assess student acquisition of content knowledge and skills through:
 
-  -Performance Tasks 
-  -Problem-Based  or Project-Based Challenge
-  -Benchmark Assessments
-  -Tests and quizzes
-  -Online learning modules/playlists
-  -Classwork, discussions, homework
+  *Performance Tasks 
+  *Problem-Based  or Project-Based Challenge
+  *Benchmark Assessments
+  *Tests and quizzes
+  *Online learning modules/playlists
+  *Classwork, discussions, homework
 
 ####Design Thinking 
 Central to the work we do at UA Maker is Design Thinking – students’ ability to use the design process to create and execute on their ideas, passions, and creativity. In order to assess student on design thinking we use evidence from:
