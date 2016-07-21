@@ -17,7 +17,7 @@ We assess students through:
 
 ####Performance Tasks 
 -Problem-Based  or Project-Based Challenge
-- Benchmark Assessments
+-Benchmark Assessments
 -Tests and quizzes
 -Online learning modules/playlists
 -Classwork, discussions, homework
