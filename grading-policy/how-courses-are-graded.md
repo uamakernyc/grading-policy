@@ -111,14 +111,14 @@ The panel shall also consult with the course teacher before finalizing their dec
 
 ### Applying for Course Extensions
 
-Students and their advisor will submit a Course Extension Request google form no later than May 15 for each eligible course a student has not yet passed. The Course Extension Review Panel will return a decision on each application, by email, to both the student and their advisor no later than June 1.
+Students and their advisor will submit a Course Extension Request google form no later than May 15 for each eligible course. The Course Extension Review Panel will return a decision on each application, by email, to both the student and their advisor no later than June 1.
 
 ### Accepting a Course Extension Offer
 
-A Course Extension Agreement, signed by the Student and their Advisor, is the official document demonstrating the students acknowledgement of the conditions of their course extension and outlining exactly what they need to do to earn credit for the extended course.
+A Course Extension Agreement, signed by the Student and their Advisor, is the official document demonstrating the student's acknowledgement of the conditions of their course extension and outlining exactly what they need to do to earn credit for the extended course.
 
 Copies of this agreement will be provided to advisors no later than June 8, and must be signed and returned no later than June 15th. The programming chair shall use completed Course Extension Agreements as the basis for programming students in STARS, and must have the completed agreement in hand prior to taking any action with regard to the course extension in question.
 
 ### Award of Credit following a Course Extension
 
-Students who are awarded a course extension in June will be given a score of NU on their June report card. The NU indicates that a course extension has been approved. Students with approved extensions are enrolled in summer school and are given through the summer term (term 7) to complete their course of study. Students in annualized courses will earn 1 credit at the end of term 7 if the student mastered 40% of the standards at a decaying average of emerging proficient or higher and 2 credits if they have mastered 65% of the standards at a decaying average of emerging proficient or higher. 
+Students who are awarded a course extension in June will be given a score of NX on their June report card. The NU indicates that a course extension has been approved. Students with approved extensions are enrolled in summer school and are given through the summer term (term 7) to complete their course of study. Students in annualized courses will earn 1 credit at the end of term 7 if the student mastered 40% of the standards at a decaying average of emerging proficient or higher and 2 credits if they have mastered 65% of the standards at a decaying average of emerging proficient or higher. 
