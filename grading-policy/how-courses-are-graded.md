@@ -10,11 +10,6 @@ A substantial majority of grades at UA Maker are based on the individual student
 
 Each course has a collection of standards which represent the required knowledge, content, and skills, which a student must master in order to pass the course and earn credit. Students are provided with a minimum of three opportunities to demonstrate their competancy for each of the standards within the course as part of formal AtBat assessments. To pass a course and recieve credit, a student must demonstrate an acceptable level of mastery for a minimum of 65% of the course standards, as described in the implementation section of this grading policy.
 
-## Non-mastery based factors
-
-UA Maker groups non-mastery based factors such as professionalism, effort, behavior, participation, and attendance, into an additional school-wide set of standards called "Success Strategies". This collection of standards is integrated into each course and provides students with personal feedback about their classroom conduct. Assessment of these standards contributes to the overall grade for the course.
-
-Each course at UA Maker includes non-mastery based factors using the Success Strategies standards collection. Assessment of these standards is limited in scope, such that performance on these measures does not primarily determine the course grade. The calculation of scores using these standards is addressed in the Implementation section of this grading policy, but may be modified for individual courses as outlined in the applicable syllabus.
 
 ## Regents Exams
 
