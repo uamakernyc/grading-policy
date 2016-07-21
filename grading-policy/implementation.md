@@ -36,5 +36,3 @@ Any person is free to contribute suggestions for changes to the grading policy (
 Any changes to the grading policy will not take effect until a new version is published at the beginning of the following academic year.
 
 Any person wishing to provide feedback, contributions, or suggestions should consult the Contributions section above.
-
-## Notification of Promotion in Doubt
