@@ -97,14 +97,19 @@ In determining substantial risk, the administration and staff shall consider:
 
 * The students overall progress toward sufficient Mastery of course standards
 * Whether, in the opinion of the classroom teacher, the student is expected to attain mastery and recieve applicable credit
-* Whether the student is expected to meet the necessary criteria to qualify for a course extension
-* The judgement of the students' advisor regarding what support may help the student attain timely passing status for the course
 
 ## Make up assignments and missed work
 
 Students may have the opporunity to complete make up assignments, either to improve their initial score in response to feedback from the course teacher, or to earn a score for assignments that have been missed.
 
 If a student is given the opportunity to complete make up assignments or missed work, all work must be completed, submitted, and graded within the same term, no later than four weeks after the end of the final marking period. Classroom teachers must establish clear deadlines with students undertaking this work which will ensure that all assignments may be graded to meet this deadline.
+
+###Grade improvement forms
+When submitting revisions to previously graded work, students must submit a grade improvement form either on paper or digitally stating the standard, a claim for the requested rubric level for each standard, and evidence to support the claim. 
+If submitting work more than 1 week past the deadline posted on Canvas, students must also submit the grade improvement form.
+
+Teachers must have grade improvement form available to students on paper or digitally (draft of a potential google form version).
+Teachers must require students to submit an improvement form before entering grade changes on Canvas for revised or late work.Teachers must include due dates on Canvas assignments. Teachers must make rubrics available to students on Canvas and/or on paper performance tasks.
 
 ### Excused Absenses
 
