@@ -1,5 +1,35 @@
 # How Courses are Graded
 
+Grades at UA Maker provide precise, actionable feedback about students’ ability to master a course’s standards (NYS, Common Core, Next Gen, Design Thinking, and Academic & Personal Behaviors).
+
+Since the rapidly changing workplace calls for our future Makers to apply what they know and are able to do in novel situations and with independence, students at UA Maker have demonstrated mastery when they show their understanding on their own, across time and situations. At UA Maker, when you demonstrate your understanding once, you are proficient. When you show your understanding repeatedly, you have mastered a skill. 
+
+Students will have the opportunity to learn content and skills in subject area classes and whole school design challenges. Thus, at UA Maker, Mastery means being able to demonstrate repeated proficiency of a particular process, content, or skill as measured by different types of assessments that ask students to apply what they know in different ways when they are ready to demonstrate mastery of a skill. 
+
+We assess our students on the following criteria:						
+
+####Content Knowledge and Skills
+For every unit there are discrete content knowledge and skills that we expect students to master. These content standards are based on the New York State, Common Core Standards, Industry Standards, and Next Gen Science standards. 
+Content Knowledge and Skills standards shall comprise no less than 65% of the total standards for a course.
+We assess student acquisition of content knowledge and skills through:
+
+.  Performance Tasks 
+.  Problem-Based  or Project-Based Challenge
+.  Benchmark Assessments
+.  Tests and quizzes
+.  Online learning modules/playlists
+.  Classwork, discussions, homework
+
+####Design Thinking 
+Central to the work we do at UA Maker is Design Thinking – students’ ability to use the design process to create and execute on their ideas, passions, and creativity. In order to assess student on design thinking we use evidence from:
+Student’s performance tasks in every subject area, assessed on the UA Maker Design Thinking Rubric. Assessment of these standards is limited in scope, such that performance on these measures does not primarily determine the course grade. The calculation of scores using these standards is addressed in the Implementation section of this grading policy, but may be modified for individual courses as outlined in the applicable syllabus.
+Design Thinking Standards shall comprise no less than 10% and no more than 30% of the total standards for a course.
+
+####Success Strategies
+
+UA Maker groups non‐content based factors such as professionalism, effort, behavior, participation, and attendance, into an additional school‐wide set of standards called “Success Strategies.”  These standards were developed out of the research gathered by the NYCDOE on Academic and Personal Learning Behaviors. In addition to all that our students know and are able to do, we also offer our students feedback on the habits and behaviors that help students to succeed in school and beyond. Students receive feedback and areas to work on and improve based on their behaviors throughout their classes. It is important that all teachers explicitly support student development in the areas of academic and personal behaviors by clearly stating expectations and providing actionable feedback over the course of a unit. 
+Success Strategy standards shall comprise no less than 10% and no more than 30% of the total standards for a course.  Assessment of these standards is limited in scope, such that performance on these measures does not primarily determine the course grade. The calculation of scores using these standards is addressed in the Implementation section of this grading policy, but may be modified for individual courses as outlined in the applicable syllabus.
+
 At UA Maker, the year is divided into four marking periods. Families recieve a copy of student grades at the end of each marking period. 
 
 ## Mastery Based Grading
@@ -10,6 +40,9 @@ A substantial majority of grades at UA Maker are based on the individual student
 
 Each course has a collection of standards which represent the required knowledge, content, and skills, which a student must master in order to pass the course and earn credit. Students are provided with a minimum of three opportunities to demonstrate their competancy for each of the standards within the course as part of formal AtBat assessments. To pass a course and recieve credit, a student must demonstrate an acceptable level of mastery for a minimum of 65% of the course standards, as described in the implementation section of this grading policy.
 
+## Standards in a Course
+
+Courses are made up of content standards, design thinking standards, and success strategy standards.
 
 ## Regents Exams
 
