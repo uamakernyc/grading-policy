@@ -44,6 +44,8 @@ Each course has a collection of standards which represent the required knowledge
 
 Courses are made up of content standards, design thinking standards, and success strategy standards.
 
+TODO: DISCUSS GRADE CALCULATION AND DECAYING AVERAGE
+
 ## Regents Exams
 
 For all courses which terminate in a regents examination, the classroom teacher has the discretion to establish through the course syllabus whether and how the exam score will be integrated in the final grade for the course. The option to incorporate regents examination scores must comply with all of the following conditions:
@@ -127,7 +129,7 @@ Students are expected to earn a passing grade (Emerging Proficient or higher) on
 
 Course extensions are granted to qualifying students who recieve the recommendation of their advisor and submit their application by the deadline. The purpose of a course extension is to allow students to continue their study so that they may demonstrate sufficient mastery of the course to earn a credit.
 
-All UA Maker courses are instructionally annularized, meaning that they are designed for students to achieve mastery in their standards through a 10 month learning cycle. In some cases, courses meet only in the Fall semester. Most students will achieve mastery of standards during that term, however, students may continue to work with their teachers in after school sessions or by completing tasks assigned in Canvas. Course extensions apply only to students who require time during Term 7 (Summer) to demonstrate their mastery. Courses which meet only during the Fall semester are not eligible for course extensions.
+All UA Maker courses are instructionally annualized, meaning that they are designed for students to achieve mastery in their standards through a 10 month learning cycle. In some cases, courses meet only in the Fall semester. Most students will achieve mastery of standards during that term, however, students may continue to work with their teachers in after school sessions or by completing tasks assigned in Canvas through the rest of the year. Course extensions apply only to students who require time during Term 7 (Summer) to demonstrate their mastery. Courses which meet only during the Fall semester are not eligible for course extensions in the Summer semester.
 
 ### Eligibility for Course Extensions
 
