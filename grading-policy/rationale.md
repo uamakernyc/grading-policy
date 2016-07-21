@@ -16,11 +16,11 @@ For every unit there are discrete content knowledge and skills that we expect st
 We assess students through:
 
 ####Performance Tasks 
--Problem-Based  or Project-Based Challenge
--Benchmark Assessments
--Tests and quizzes
--Online learning modules/playlists
--Classwork, discussions, homework
+--Problem-Based  or Project-Based Challenge
+--Benchmark Assessments
+--Tests and quizzes
+--Online learning modules/playlists
+--Classwork, discussions, homework
 
 
 ####Success Strategies
