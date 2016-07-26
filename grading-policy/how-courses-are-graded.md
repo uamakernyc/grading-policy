@@ -32,7 +32,7 @@ Success Strategy standards shall comprise no less than 10% and no more than 30% 
 
 At UA Maker, the year is divided into four marking periods. Families recieve a copy of student grades at the end of each marking period. 
 
-## Mastery Based Grading
+##Mastery Based Grading
 
 Courses at UA Maker are designed so that students may develop and demonstrate their mastery of concepts and skills through multiple measures of performance. These measures include Performance Tasks, AtBats, classwork, projects and assignments, homework, and other methods of formative and summative assessment as designed by the individual course teacher.
 
@@ -40,7 +40,7 @@ A substantial majority of grades at UA Maker are based on the individual student
 
 Each course has a collection of standards which represent the required knowledge, content, and skills, which a student must master in order to pass the course and earn credit. Students are provided with a minimum of three opportunities to demonstrate their competancy for each of the standards within the course as part of formal AtBat assessments. To pass a course and recieve credit, a student must demonstrate an acceptable level of mastery for a minimum of 65% of the course standards, as described in the implementation section of this grading policy.
 
-## Standards in a Course
+##Standards in a Course
 
 Courses are made up of content standards, design thinking standards, and success strategy standards.
 
