@@ -1,41 +1,25 @@
-# Grading Timeline
-
-Date          | Description
---------------|------------------------------------------
-
-* By June 2015 we will have meaningful interaction with 70% of families as measured by: Parent Email, Learning Environment Survey, and parent logs in our Learning Management System.
 
 
 
+#Grading Timeline
 
-## Academic Calendar
-
-Our partnership coordinator, Ashley Vega, will keep our UA Maker Academy calendar updated. The school year is divided into 4 marking periods.
-
-| 2016-2017 | UA Maker Calendar |
+| 2016-2017 | Grading Timeline |
 ------------|-------------------
 Friday November 11 | Grades Close for 1st MC 
 Monday November 14 | Grades Due 
-Thursday November 17  | Evening Parent Teacher Conferences
-Friday November 18  | Half Day Afternoon Parent Teacher Conferences
 January       | Promotion in Doubt determination undertaken
 Friday January 20  | Grades close for 2nd MP
 Monday January 23 | Grades Due 
 Week of January 23 | Regents Week
 Tuesday January 31  | Spring Term Begins
 February 15th | Families notified for students who are Promotion in Doubt
-Thursday March 23 | Evening Parent Teacher Conferences
-Friday March 24 | Half Day Afternoon Parent Teacher Conferences
 Monday April 3 | Grades Close for MP 3
 Wednesday April 5 | Grades Due
 Monday May 15 | Course Extensions Due
-Monday May 29  | Memorial Day (school closed)
 June 1st      | Decisions returned on course extension applications
-Thursday June 8 | Chancellor’s Day (no students, staff attend Professional Development)
 June 8th      | Course Extension Agreement paperwork delivered to advisors
 Monday June 12  | Last Day of Classes Grades Close for MP 4
 June 15th     | Final deadline for completed Course Extension Agreements
-Monday June 26 | Eid al-Fitr (school closed)
 Wednesday June 28 | Last Day of School
 
 
@@ -45,7 +29,6 @@ Grades in STARS are finalized four weeks following the end of the term. As cours
 
 Grades may be changed after this deadline only by a member of the school administration or the programming chair, and only at the direction of the principal. The principal shall direct retroactive changes to student grades only during the following circumstances:
 
-TODO: define NX
 * An error was made in the calculation or entry of a grade
 * A grade update must be made after the completion of outstanding coursework, replacing `NX` (incomplete) or `NL` (recent admit), no later than the end of the term following the grade (Term 7)
 * In the event of a Principal Override, in accordance with CSA and UFT contracts
