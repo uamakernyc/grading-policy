@@ -1,6 +1,6 @@
 # Acknowledgements
 
-UA Maker gratefully acknowledges resources, support and feedback from the Department of Education, from the [Mastery Collaborative] (http://www.masterycollaborative.org), [Springpoint Parters in School Design](Http://www.springpointschools.org), [Competency Works](http://www.competencyworks.org), and schools throughout the country working with Mastery Based Grading Models, and from numerous consultations and supportive discussions shared with experts in the field, all of which have made the construction of this grading policy possible.
+UA Maker gratefully acknowledges resources, support and feedback from the Department of Education, from [The Urban Assembly] (http://www.urbanassembly.org), [Mastery Collaborative] (http://www.masterycollaborative.org), [Springpoint Parters in School Design](Http://www.springpointschools.org), [Competency Works](http://www.competencyworks.org), and schools throughout the country working with Mastery Based Grading Models, and from numerous consultations and supportive discussions shared with experts in the field, all of which have made the construction of this grading policy possible.
 
 Key documents supporting our grading policy include:
 
