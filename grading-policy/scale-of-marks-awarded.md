@@ -20,7 +20,7 @@ The values listed for "Grade" above are used in the calculation of decaying aver
 
 Most courses at UA Maker use the Numeric Grade scale (1 - 100) to report student grades at the end of each marking period, including final grades at the conclusion of the term. Scores of 1 - 64 equate to a failing grade, and scores 65 - 100 equate to a passing grade resulting in the accumulation of credit toward graduation. A score of 65 is the lowest possible passing score.
 
-Generally, a student who attended the course but failed to successfully demonstrate their mastery of the content and skills, who did not qualify for grades outlined below, will recieve a score of 55.
+Generally, a student who attended the course but failed to successfully demonstrate their mastery of the content and skills, who did not qualify for grades outlined below, will receive a score of 55.
 
 ## Pass / Fail Scale
 
@@ -46,9 +46,9 @@ A small number of courses at UA Maker may be selected to test the Mastery Based 
 
 ### Course Extension and Audit (NU)
 
-`NU` is a grade assigned to students who have successfully applied for a course extension based on the school course extension policy, and have subsequently completed a Course Extension Agreement. Following the assignment of this grade, students are enrolled in new course codes during Term 7 (summer), and are permitted to complete and submit the remaining course requirements in order to demonstrate their competancy in the course content. These course codes are identified through the use of `E` in the seventh code position. Students earn credit through this process as applicable through the course extension process.
+`NU` is a grade assigned to students who have successfully applied for a course extension based on the school course extension policy, and have subsequently completed a Course Extension Agreement. Following the assignment of this grade, students are enrolled in new course codes during Term 7 (summer), and are permitted to complete and submit the remaining course requirements in order to demonstrate their competency in the course content. These course codes are identified through the use of `E` in the seventh code position. Students earn credit through this process as applicable through the course extension process.
 
-Note: A student enrolled in Algebra, `MEN11`, needs additional time to complete the course content and successfully applies for a course extension with the help of their advisor. The student completes the Course Extension Agreement and recieves a grade of `NU` in `MEN11`, and is enrolled in `MEN11QE`. The student continues to work on the course content during Term 7. After three weeks, the student has successfully attained a passing grade as a result of their work, and recieves the applicable grade and credit for `MEN11QE`.
+Note: A student enrolled in Algebra, `MEN11`, needs additional time to demonstrate mastery of the course content and successfully applies for a course extension with the help of their advisor. The student completes the Course Extension Agreement and receives a grade of `NU` in `MEN11`, and is enrolled in `MEN11QE`. The student continues to work on the course content during Term 7. After three weeks, the student has successfully attained a passing grade as a result of demonstrating mastery of the course content, and receives the applicable grade and credit for `MEN11QE`.
 
 #### Distinguishing between Course Extensions and Targeted Credit Recovery
 
@@ -58,7 +58,7 @@ These goals are supported by our school wide annualized instructional approach a
 
 Targeted Credit Recovery, designated by the letter `R` in the seventh code position, is not in use at UA Maker and supports a different need- where students require intensive supplementary instruction in order to achieve passing status. In these circumstances and wherever possible, UA Maker provides students with opportunities to repeat course content using "Selective" versions of courses to avoid the repetition of circumstances identical to those under which the student was not able to be successful on their initial attempt.
 
-Course Extensions, designated by the letter `E` in the seventh code position, are the process that we have defined in order to provide students who have met rigorous eligibility criteria with additional time during the summer term in which to continue, uninterupted and without repetition, the learning that they have undertaken during the spring term in order to achieve passing status in the course and earn applicable credit.
+Course Extensions, designated by the letter `E` in the seventh code position, are the process that we have defined in order to provide students who have met rigorous eligibility criteria with additional time during the summer term in which to continue, uninterrupted and without repetition, the learning that they have undertaken during the spring term in order to achieve passing status in the course and earn applicable credit.
 
 
 ### Incomplete (NX)
@@ -84,12 +84,12 @@ A grade of `NS` is given to a student who fails to attend a course and does not 
 This mark is used in egregious situations, when students have been given reasonable chances to make up missed work and their absences are so chronic that only a failing mark is appropriate. Classroom teachers may award this grade in consultation with the Admin team where both the following conditions are met:
 
 * The student has not completed any graded coursework
-* The students attendance rate, as measured by their Kinvolved record for the class, is 60% or less
+* The students course attendance rate is 60% or less
 
 ### Course Waived (NW)
 
 Used to waive incomplete gym credit requirements where the student has completed all other graduation requirements. Equivalent to a Pass.
 
-### Long-term absentism and Home and Hospistal Instruction
+### Long-term absenteeism and Home and Hospital Instruction
 
 Where possible, instead of giving failing grades, long-term absentees (LTA) shall be discharged appropriately. Similarly, students who are on home and hospital instruction shall not receive `NS` marks.
