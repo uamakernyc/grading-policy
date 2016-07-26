@@ -39,18 +39,13 @@ Monday June 26 | Eid al-Fitr (school closed)
 Wednesday June 28 | Last Day of School
 
 
-
-
-
-
-
-
 ## When and how a grade can be changed after it has been finalized
 
-Grades in STARS are finalized four weeks following the end of the term, and are finalized after that deadline has passed. As courses at UA Maker are designed to adhere to an annualized instructional approach, the applicable deadline falls approximately four weeks after the conclusion of classes at the end of the school year.
+Grades in STARS are finalized four weeks following the end of the term. As courses at UA Maker are designed to adhere to an annualized instructional approach, the applicable deadline falls approximately four weeks after the conclusion of classes at the end of the school year.
 
 Grades may be changed after this deadline only by a member of the school administration or the programming chair, and only at the direction of the principal. The principal shall direct retroactive changes to student grades only during the following circumstances:
 
+TODO: define NX
 * An error was made in the calculation or entry of a grade
 * A grade update must be made after the completion of outstanding coursework, replacing `NX` (incomplete) or `NL` (recent admit), no later than the end of the term following the grade (Term 7)
 * In the event of a Principal Override, in accordance with CSA and UFT contracts
