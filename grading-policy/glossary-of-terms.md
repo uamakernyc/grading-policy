@@ -4,11 +4,10 @@
 
 Refers to the delivery model of courses at UA Maker. Each course is designed so that students may achieve Mastery in the content and skills of the course throughout the year over a 38 week instructional approach.
 
-TODO: This definition.
 
 * *Term*
 
-The Summer Semester
+The length of time a student is enrolled in a course.
 
 * *Standards*
 
