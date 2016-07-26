@@ -6,6 +6,7 @@ Since the rapidly changing workplace calls for our future Makers to apply what t
 
 Students will have the opportunity to learn content and skills in subject area classes and whole school design challenges. Thus, at UA Maker, Mastery means being able to demonstrate repeated proficiency of a particular process, content, or skill as measured by different types of assessments that ask students to apply what they know in different ways when they are ready to demonstrate mastery of a skill. 
 
+##Standards in a Course
 We assess our students on the following criteria:						
 
 ####Content Knowledge and Skills
@@ -40,11 +41,21 @@ A substantial majority of grades at UA Maker are based on the individual student
 
 Each course has a collection of standards which represent the required knowledge, content, and skills, which a student must master in order to pass the course and earn credit. Students are provided with a minimum of three opportunities to demonstrate their competancy for each of the standards within the course as part of formal AtBat assessments. To pass a course and recieve credit, a student must demonstrate an acceptable level of mastery for a minimum of 65% of the course standards, as described in the implementation section of this grading policy.
 
-##Standards in a Course
-
-Courses are made up of content standards, design thinking standards, and success strategy standards.
-
 TODO: DISCUSS GRADE CALCULATION AND DECAYING AVERAGE
+
+Mastery of any standard is calculated by taking a simplified decaying average of the assignments aligned to that standard.
+
+The Decaying Average calculation factors the average of all assessment items aligned to a particular standard while weighing the most recent (current) item at a higher percentage.
+ 
+The term decaying average is traditionally used to describe a complex analysis: when an additional assessment is applied to an existing value, the prior decaying average is used to calculate the new decaying average. This method weights all assessments equally and calculates the average of learning over time. However, our method uses a simplified approach where we calculate the average of all prior assessments and applies the value as a weighted percentage formula, instead of the alternative approach of simply using the prior decaying average.
+ 
+Our decaying average is set at 65/35, meaning the current item is weighted at 65%, and the average of all other scores for that standard is weighted at 35%. Note that the average is rounded to the next two decimals. If there is only one result, then the single score will be displayed.
+ 
+For example, a student has four aligned items with scores of 4, 3, 2, and 5 (scores listed chronologically from oldest to most recent). If the current item is set to be weighted at 75% of mastery, prior scores are weighted at 25%:
+ 
+Current item score: 5
+Average of prior item scores: (4 + 3 + 2) / 3 = 3
+Calculated score: 5 (.75) + 3 (.25) = 3.75 + .75 = 4.5
 
 ## Regents Exams
 
