@@ -1,7 +1,4 @@
-
-
-
-#Grading Timeline
+# Grading Timeline
 
 | 2016-2017 | Grading Timeline |
 ------------|-------------------
@@ -21,7 +18,6 @@ June 8th      | Course Extension Agreement paperwork delivered to advisors
 Monday June 12  | Last Day of Classes Grades Close for MP 4
 June 15th     | Final deadline for completed Course Extension Agreements
 Wednesday June 28 | Last Day of School
-
 
 ## When and how a grade can be changed after it has been finalized
 

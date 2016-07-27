@@ -4,7 +4,6 @@
 
 Refers to the delivery model of courses at UA Maker. Each course is designed so that students may achieve Mastery in the content and skills of the course throughout the year over a 38 week instructional approach.
 
-
 * *Term*
 
 The length of time a student is enrolled in a course.
@@ -31,15 +30,15 @@ means that students may not be working on the same work as others.
 
 * *AtBat*
 
-means a student assessment
+means a student assessment which is included in the calculation of the final grade
 
 * *Rubric*
 
-A rubric is a scoring guide that describes levels of performance along a continuum, (“beginner”, “advanced beginner”, “emerging proficient”, “proficient”, “advanced proficient”) and include a specific set of indicators for each level and competency being assessed.
+A rubric is a scoring guide that describes levels of performance along a continuum, (`beginner` => `advanced beginner` => `emerging proficient` => `proficient` => `advanced proficient`) and include a specific set of indicators for each level and competency being assessed.
 
 * *Performance Task*
 
-a rigorous, engaging standards-based task aligned to the general requirements of college freshman. See [Redesign] (http://www.redesignu.org) resources for more detail.
+a rigorous, engaging standards-based task aligned to the general requirements of college freshman. See [Redesign](http://www.redesignu.org) resources for more detail.
 
 * *Kadion*
 

@@ -6,34 +6,37 @@ Since the rapidly changing workplace calls for our future Makers to apply what t
 
 Students will have the opportunity to learn content and skills in subject area classes and whole school design challenges. Thus, at UA Maker, Mastery means being able to demonstrate repeated proficiency of a particular process, content, or skill as measured by different types of assessments that ask students to apply what they know in different ways when they are ready to demonstrate mastery of a skill. 
 
-##Standards in a Course
+## Standards in a Course
+
 We assess our students on the following criteria:						
 
-####Content Knowledge and Skills
+### Content Knowledge and Skills
+
 For every unit there are discrete content knowledge and skills that we expect students to master. These content standards are based on the New York State, Common Core Standards, Industry Standards, and Next Gen Science standards. 
 Content Knowledge and Skills standards shall comprise no less than 65% of the total standards for a course.
 We assess student acquisition of content knowledge and skills through:
 
-  *Performance Tasks 
-  *Problem-Based  or Project-Based Challenge
-  *Benchmark Assessments
-  *Tests and quizzes
-  *Online learning modules/playlists
-  *Classwork, discussions, homework
+  * Performance Tasks 
+  * Problem-Based  or Project-Based Challenge
+  * Benchmark Assessments
+  * Tests and quizzes
+  * Online learning modules/playlists
+  * Classwork, discussions, homework
 
-####Design Thinking 
+### Design Thinking 
+
 Central to the work we do at UA Maker is Design Thinking – students’ ability to use the design process to create and execute on their ideas, passions, and creativity. In order to assess student on design thinking we use evidence from:
 Student’s performance tasks in every subject area, assessed on the UA Maker Design Thinking Rubric. Assessment of these standards is limited in scope, such that performance on these measures does not primarily determine the course grade. The calculation of scores using these standards is addressed in the Implementation section of this grading policy, but may be modified for individual courses as outlined in the applicable syllabus.
 Design Thinking Standards shall comprise no less than 10% and no more than 30% of the total standards for a course.
 
-####Success Strategies
+### Success Strategies
 
 UA Maker groups non‐content based factors such as professionalism, effort, behavior, participation, and attendance, into an additional school‐wide set of standards called “Success Strategies.”  These standards were developed out of the research gathered by the NYCDOE on Academic and Personal Learning Behaviors. In addition to all that our students know and are able to do, we also offer our students feedback on the habits and behaviors that help students to succeed in school and beyond. Students receive feedback and areas to work on and improve based on their behaviors throughout their classes. It is important that all teachers explicitly support student development in the areas of academic and personal behaviors by clearly stating expectations and providing actionable feedback over the course of a unit. 
 Success Strategy standards shall comprise no less than 10% and no more than 30% of the total standards for a course.  Assessment of these standards is limited in scope, such that performance on these measures does not primarily determine the course grade. The calculation of scores using these standards is addressed in the Implementation section of this grading policy, but may be modified for individual courses as outlined in the applicable syllabus.
 
 At UA Maker, the year is divided into four marking periods. Families recieve a copy of student grades at the end of each marking period. 
 
-##Mastery Based Grading
+## Mastery Based Grading
 
 Courses at UA Maker are designed so that students may develop and demonstrate their mastery of concepts and skills through multiple measures of performance. These measures include Performance Tasks, AtBats, classwork, projects and assignments, homework, and other methods of formative and summative assessment as designed by the individual course teacher.
 
@@ -117,12 +120,13 @@ Students may have the opporunity to complete make up assignments, either to impr
 
 If a student is given the opportunity to complete make up assignments or missed work, all work must be completed, submitted, and graded within the same term, no later than four weeks after the end of the final marking period. Classroom teachers must establish clear deadlines with students undertaking this work which will ensure that all assignments may be graded to meet this deadline.
 
-###Grade improvement forms
+### Grade improvement forms
+
 When submitting revisions to previously graded work, students must submit a grade improvement form either on paper or digitally stating the standard, a claim for the requested rubric level for each standard, and evidence to support the claim. 
 If submitting work more than 1 week past the deadline posted on Canvas, students must also submit the grade improvement form.
 
 Teachers must have grade improvement form available to students on paper or digitally (draft of a potential google form version).
-Teachers must require students to submit an improvement form before entering grade changes on Canvas for revised or late work.Teachers must include due dates on Canvas assignments. Teachers must make rubrics available to students on Canvas and/or on paper performance tasks.
+Teachers must require students to submit an improvement form before entering grade changes on Canvas for revised or late work. Teachers must include due dates on Canvas assignments. Teachers must make rubrics available to students on Canvas and/or on paper performance tasks.
 
 ### Excused Absenses
 
