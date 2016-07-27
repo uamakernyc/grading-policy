@@ -14,6 +14,8 @@ TODO: Default License Policy
 
 # [Contributing](./CONTRIBUTING.md)
 
+# [Glossary of Terms](./grading-policy/glossary-of-terms.md)
+
 # [How Courses are Graded](./grading-policy/how-courses-are-graded.md)
 
 # [Scale of Marks Awarded](./grading-policy/scale-of-marks-awarded.md)
