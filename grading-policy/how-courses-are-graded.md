@@ -171,4 +171,40 @@ Copies of this agreement will be provided to advisors no later than June 8, and 
 
 ### Award of Credit following a Course Extension
 
-Students who are awarded a course extension in June will be given a score of `NU` on their June report card. The `NU` indicates that a course extension has been approved. Students with approved extensions are enrolled in summer school and are given through the summer term (term 7) to complete their course of study. Students in annualized courses will earn 1 credit at the end of term 7 if the student mastered 40% of the standards at a decaying average of emerging proficient or higher and 2 credits if they have mastered 65% of the standards at a decaying average of emerging proficient or higher. 
+Students who are awarded a course extension in June will be given a score of `NU` on their June report card. The `NU` indicates that a course extension has been approved. Students with approved extensions are enrolled in summer school and are given through the summer term (term 7) to complete their course of study.
+
+Students must meet the minimum passing standards in the course for which they have recieved an approved extension. Completing these requirements by the end of term 7 will enable the student to recieve the full credit value of the course (one or two credits), which will appear on their transcript under the summer course equivalent of their extended course. The school-wide minimum standard for passing a course is a decaying average of emerging proficient (EP) in 65% of the course standards. This passing standard shall be in effect unless modified by a course specific grading policy, which must be made available to students on the first day that the course meets.
+
+```
+Example
+
+A 9th grade student has good attendance in her English 
+class, but hasn't completely mastered the course standards. 
+With help from her advisor she successfully applies for a course extension. 
+At the conclusion of Term 1 in June, she recieves a grade of `NU` 
+for her English course, `EEN41`. She is enrolled in summer school.
+
+During Summer School, she is able to work closely with her teachers 
+to bring her grade up to the required decaying averge of Emerging Proficient 
+in over 65% of the course standards. 
+
+She recieves a final grade of 75 for the summer version of her 
+course, `EEF41`, and gains 2 credits toward graduation.
+
+```
+
+
+```!
+Non-Example
+
+A different 9th grade student also struggles to master the course
+standards in her English class, `EEN41`. She successfully applies
+for a course extension, and after the term is over in June she
+starts going back through the assignments from the class to finish
+the work that she missed. She emails this work to her teacher, and
+proceeds to enjoy her summer break expecting to recieve 2 credits
+for her English class, `EEN41`, and continue to 10th grade.
+
+```
+
+The non-example highlights how important it is for students to understand the course extension process. While a successful course extension will grant students additional time to master course content, the extension is documented on the student transcript as an `NU` which will remain as a permanent part of that student's academic history. It is always preferable for students to work hard in their classes and meet the minimum requirements to pass during the regular school term.
