@@ -1,3 +1,3 @@
 # Version
 
-![version-badge](![version-badge](https://img.shields.io/badge/version-2016--2017-7ddc1f.svg?link=https://github.com/uamakernyc/grading-policy)
+![version-badge](![version-badge](https://img.shields.io/badge/version-2017--2018-ff69b4.svg?link=https://github.com/uamakernyc/grading-policy)
