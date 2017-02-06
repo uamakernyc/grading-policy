@@ -30,7 +30,15 @@ means that students may not be working on the same work as others.
 
 * *AtBat*
 
-means a student assessment which is included in the calculation of the final grade
+means a student assessment of standards given after practice
+
+* *Practice Assignment*
+
+is an assignment that allows the student to learn and practice a standard but is not included in the calculation of the final grade
+
+* *Benchmark*
+
+is a deliverable that serves as a building block for successful performnce task completion 
 
 * *Rubric*
 
