@@ -38,7 +38,7 @@ is an assignment that allows the student to learn and practice a standard but is
 
 * *Benchmark*
 
-is a deliverable that serves as a building block for successful performnce task completion 
+is a deliverable that serves as a building block for successful performance task completion 
 
 * *Rubric*
 
