@@ -8,13 +8,13 @@ The Urban Assembly Maker Academy Grading Policy
 ![This material is Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
 
-TODO: Default License Policy
-
 # [Release Notes](./RELEASE-NOTES.md)
 
 # [Contributing](./CONTRIBUTING.md)
 
 # [Glossary of Terms](./grading-policy/glossary-of-terms.md)
+
+# [Guiding Principles and Practices](./grading-policy/guiding-principles-and-practices.md)
 
 # [How Courses are Graded](./grading-policy/how-courses-are-graded.md)
 
