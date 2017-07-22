@@ -1,14 +1,14 @@
 The Urban Assembly Maker Academy Grading Policy
 -----------------------------------------------
 
+The school grading policy is currently being revised for the 2017-18 academic year. All changes here should be considered drafts until the first day of the term, September 7th 2017
+
 # [Version](./VERSION.md)
 
 # License
 
 ![This material is Open Content](http://assets.okfn.org/images/ok_buttons/oc_80x15_blue.png)
 ![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
-
-TODO: Default License Policy
 
 # [Release Notes](./RELEASE-NOTES.md)
 
