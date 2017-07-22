@@ -12,7 +12,12 @@ The school grading policy is currently being revised for the 2017-18 academic ye
 
 # [Release Notes](./RELEASE-NOTES.md)
 
-> <p style="color:green;">**EXAMPLE**
+> <p style="color:green;">**EXAMPLE:**
+> Demonstrating a feature of Flatdoc for the
+> expanded use of non/examples in our revised
+> grading policy.</p>
+
+> <p style="color:red;">**NON-EXAMPLE:**
 > Demonstrating a feature of Flatdoc for the
 > expanded use of non/examples in our revised
 > grading policy.</p>
