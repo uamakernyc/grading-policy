@@ -26,6 +26,8 @@ The school grading policy is currently being revised for the 2017-18 academic ye
 
 # [Glossary of Terms](./grading-policy/glossary-of-terms.md)
 
+# [Guiding Principles and Practices](./grading-policy/guiding-principles-and-practices.md)
+
 # [How Courses are Graded](./grading-policy/how-courses-are-graded.md)
 
 # [Scale of Marks Awarded](./grading-policy/scale-of-marks-awarded.md)

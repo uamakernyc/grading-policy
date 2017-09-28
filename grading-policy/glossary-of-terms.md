@@ -10,7 +10,7 @@ The length of time a student is enrolled in a course.
 
 * *Standards*
 
-The outcomes that must be mastered in order to pass, and attain credit, for a course. Standards may be established at the course, department, grade, or school level. 
+The outcomes that must be mastered in order to pass, and attain credit, for a course. Standards may be established at the course, department, grade, or school level. Sometimes refered to as "Rubric strands" or "measurement topics", all assessments of student learning address one or more standards.
 
 * *Proficiency*
 
